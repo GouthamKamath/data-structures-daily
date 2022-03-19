@@ -33,7 +33,7 @@ Follow up: Could you do it in O(n) time and O(1) space?
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class PalindromeLinkedList {
     public boolean isPalindrome(ListNode head) {
         boolean isPalindrome = true;
         ArrayList<Integer> al = new ArrayList<Integer>();
