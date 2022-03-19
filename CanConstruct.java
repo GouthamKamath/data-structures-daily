@@ -24,7 +24,7 @@ Constraints:
 ransomNote and magazine consist of lowercase English letters. */
 
 
-class Solution {
+class CanConstruct {
     public boolean canConstruct(String ransomNote, String magazine) {
         boolean canConstruct = false;
        
